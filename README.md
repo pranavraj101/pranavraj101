@@ -148,7 +148,7 @@
          <tr>
         <td>Cloud Platform</td>
         <td>
-            <img src="./assets/technology/aws.svg" height="30px" alt="aws" title="Amazon Web Service"/>
+            <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="30px" alt="aws" title="Amazon Web Service"/>
         </td>
         <td>
         </td>
@@ -219,110 +219,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavraj101&hide_border=true" />
 </details>
 
-<details>
-  <summary><b>🧑‍🚀 Top Open Source Projects</b></summary>
-  <br />
-<!-- These templates will have you quickly bootstrapping your next project. -->
-
-> **Note:** These projects are not quite actively maintained, but I will try to keep them up to date with new features as much as possible 🌱.
-> <br />
-
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/pranavraj101/Portfolio"><b>Portfolio website</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/pranavraj101/Portfolio?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/pranavraj101/Portfolio?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/pranavraj101/Portfolio?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pranavraj101/Portfolio?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/pranavraj101/Portfolio?"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/pranavraj101/chat-grpc"><b>Chat gRPC application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/pranavraj101/chat-grpc?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/pranavraj101/chat-grpc?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/pranavraj101/chat-grpc?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pranavraj101/chat-grpc?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/pranavraj101/chat-grpc?"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/pranavraj101/tech-automator"><b>Technology automator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/pranavraj101/tech-automator?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/pranavraj101/tech-automator?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/pranavraj101/tech-automator?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pranavraj101/tech-automator?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/pranavraj101/tech-automator?"/></td>
-      </tr>
-      <tr>
-	    <td><a href="https://github.com/pranavraj101/tech-cheatsheets"><b>Technology cheat sheets</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/pranavraj101/tech-cheatsheets?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/pranavraj101/tech-cheatsheets?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/pranavraj101/tech-cheatsheets?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pranavraj101/tech-cheatsheets?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/pranavraj101/tech-cheatsheets?"/></td>
-      </tr>
-      <tr>
-	    <td><a href="https://github.com/pranavraj101/ansible-web-app-deployment"><b>Ansible auto deploy Web application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/pranavraj101/ansible-web-app-deployment?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/pranavraj101/ansible-web-app-deployment?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/pranavraj101/ansible-web-app-deployment?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pranavraj101/ansible-web-app-deployment?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/pranavraj101/ansible-web-app-deployment?"/></td>
-      </tr>
-      <tr>
-	    <td><a href="https://github.com/pranavraj101/linux-auto-setup"><b>Linux auto setup</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/pranavraj101/linux-auto-setup?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/pranavraj101/linux-auto-setup?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/pranavraj101/linux-auto-setup?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pranavraj101/linux-auto-setup?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/pranavraj101/linux-auto-setup?"/></td>
-      </tr>
-       <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Gmail Remote Control"><b>Gmail remote control application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Gmail-Remote-Control?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Gmail-Remote-Control?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Gmail-Remote-Control?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Gmail-Remote-Control?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Gmail-Remote-Control?"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Jurassic-Adventure-game"><b>Jurassic Adventure game</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Jurassic-Adventure-game?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Jurassic-Adventure-game?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Jurassic-Adventure-game?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Jurassic-Adventure-game?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Jurassic-Adventure-game?"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Safety-application"><b>Safety application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Safety-application?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Safety-application?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Safety-application?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Safety-application?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Safety-application?"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Storage-File-System.git"><b>Storage File System application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Storage-File-System?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Storage-File-System?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Storage-File-System?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Storage-File-System?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Storage-File-System?"/></td>
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
 
 <br>
 
